@@ -9,3 +9,5 @@ Ceci est un *texte*
 
 ## Branche Team_Notifications
 J'ai ajouté une branche
+
+Bon, il m'a l'air un peu compliqué GitHub mais bon il faut s'habituer à l'environnement 
